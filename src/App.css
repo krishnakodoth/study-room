@@ -1,0 +1,15 @@
+.appLogoWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  gap: 0 10px;
+}
+.appLogoWrapper h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.appLogo{
+  width:60px;
+}
