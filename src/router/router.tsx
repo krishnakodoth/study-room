@@ -1,6 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "../App";
-import HomePage from "../component/HomePage";
 import ShowDocument from "../component/ShowDocument";
 // import { Offers } from "../components/offers/Offers";
 // import { Graph } from "../components/graph/Graph";
